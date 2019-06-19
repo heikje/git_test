@@ -1,3 +1,9 @@
 carrot
 bean
 tomato
+cucumber
+jalopeno
+capsicum
+cabbage
+eggplant
+pumpkin
