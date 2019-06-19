@@ -4,3 +4,6 @@ tomato
 cucumber
 jalopeno
 capsicum
+cabbage
+eggplant
+pumpkin
