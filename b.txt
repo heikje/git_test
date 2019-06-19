@@ -1,3 +1,6 @@
 mango
 pear
 citrus
+banana
+kiwi
+orange
